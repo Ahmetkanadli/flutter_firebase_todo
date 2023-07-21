@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811643579235",
+    "project_id": "notlar-ad634",
+    "storage_bucket": "notlar-ad634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811643579235:android:0ab68f5314fa2fb1a78156",
+        "android_client_info": {
+          "package_name": "com.mobilemastermind.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811643579235-gchq5k1fkjciqkseo7hf4d24hid0p391.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrmb2XByYEoj-QWI4MGxQT74fxtegP6QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811643579235-gchq5k1fkjciqkseo7hf4d24hid0p391.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
